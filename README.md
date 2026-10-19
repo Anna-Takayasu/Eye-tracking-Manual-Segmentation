@@ -197,24 +197,6 @@ Choose another output location with:
 --output-dir "D:\StudyA\annotations"
 ```
 
-## Confidential data
-
-Recommended repository contents:
-
-**GitHub**
-- annotation Python script
-- README
-- requirements file
-- `.gitignore`
-- synthetic/example CSV
-
-**Restricted institutional storage**
-- eye-tracking scene videos
-- raw gaze / IMU data
-- participant metadata
-- real participant-level annotation files
-
-Do not commit confidential participant data to GitHub.
 
 ## Windows note
 
