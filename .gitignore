@@ -1,0 +1,26 @@
+# Confidential/raw research data
+data/
+raw/
+*.mp4
+*.avi
+*.mov
+*.gz
+*.h5
+*.hdf5
+
+# Participant annotations
+manual_segment_annotations/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

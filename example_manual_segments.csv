@@ -1,0 +1,2 @@
+participant,session,round,segment_id,segment_name,segment_label,segment_type,analysis_compatible,start_event,end_event,start_time_s,end_time_s,duration_s,start_time_hms,end_time_hms,start_frame_idx,end_frame_idx,video_path,valid_duration
+PXX,annotation,1,SegA,R1_SegA,SegA,canonical,True,R1_SegA_Start,R1_SegA_End,12.4,45.8,33.4,00:00:12.400,00:00:45.800,310,1145,<BASE_DIR>/PXX/Glasses/S3/scenevideo.mp4,True
