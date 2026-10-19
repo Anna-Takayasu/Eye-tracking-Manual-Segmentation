@@ -163,7 +163,9 @@ You can also click **+ Add Event** during annotation, so every event does not ne
 
 ## Existing annotations
 
-Existing annotation CSV files are loaded automatically. Select a row and use:
+Existing annotation CSV files are loaded automatically.
+
+Select a row and use:
 
 - **Set START = current**
 - **Set END = current**
